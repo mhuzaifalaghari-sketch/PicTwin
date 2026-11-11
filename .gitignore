@@ -1,0 +1,11 @@
+.vs/
+x64/
+Debug/
+Release/
+GeneratedFiles/
+*.user
+*.suo
+*.ipch
+moc_*.cpp
+ui_*.h
+qrc_*.cpp
