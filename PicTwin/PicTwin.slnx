@@ -2,5 +2,5 @@
   <Configurations>
     <Platform Name="x64" />
   </Configurations>
-  <Project Path="QtWidgetsApplication1.vcxproj" />
+  <Project Path="PicTwin.vcxproj" />
 </Solution>

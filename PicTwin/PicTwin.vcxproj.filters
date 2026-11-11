@@ -23,16 +23,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <QtRcc Include="QtWidgetsApplication1.qrc">
+    <QtRcc Include="PicTwin.qrc">
       <Filter>Resource Files</Filter>
     </QtRcc>
-    <QtUic Include="QtWidgetsApplication1.ui">
+    <QtUic Include="PicTwin.ui">
       <Filter>Form Files</Filter>
     </QtUic>
-    <QtMoc Include="QtWidgetsApplication1.h">
+    <QtMoc Include="PicTwin.h">
       <Filter>Header Files</Filter>
     </QtMoc>
-    <ClCompile Include="QtWidgetsApplication1.cpp">
+    <ClCompile Include="PicTwin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

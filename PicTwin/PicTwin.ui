@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UI version="4.0" >
- <class>QtWidgetsApplication1Class</class>
- <widget class="QMainWindow" name="QtWidgetsApplication1Class" >
+ <class>PicTwinClass</class>
+ <widget class="QMainWindow" name="PicTwinClass" >
   <property name="objectName" >
-   <string notr="true">QtWidgetsApplication1Class</string>
+   <string notr="true">PicTwinClass</string>
   </property>
   <property name="geometry" >
    <rect>
@@ -14,7 +14,7 @@
    </rect>
   </property>
   <property name="windowTitle" >
-   <string>QtWidgetsApplication1</string>
+   <string>PicTwin</string>
   </property>  <widget class="QMenuBar" name="menuBar" />
   <widget class="QToolBar" name="mainToolBar" />
   <widget class="QWidget" name="centralWidget" />
@@ -23,7 +23,7 @@
  <layoutDefault spacing="6" margin="11" />
  <pixmapfunction></pixmapfunction>
  <resources>
-   <include location="QtWidgetsApplication1.qrc"/>
+   <include location="PicTwin.qrc"/>
  </resources>
  <connections/>
 </UI>
