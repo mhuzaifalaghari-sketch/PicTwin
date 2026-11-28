@@ -4,3 +4,13 @@
 
 /PicTwin/x64/Debug
 /PicTwin/PicTwin/x64/Debug
+# Visual Studio temporary files
+.vs/
+x64/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+*.json
+*.ipch
