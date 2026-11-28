@@ -1,11 +1,6 @@
-.vs/
-x64/
-Debug/
-Release/
-GeneratedFiles/
-*.user
-*.suo
-*.ipch
-moc_*.cpp
-ui_*.h
-qrc_*.cpp
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PicTwin/x64/Debug
+/PicTwin/PicTwin/x64/Debug
